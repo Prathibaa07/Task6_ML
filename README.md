@@ -126,6 +126,16 @@ The model is trained using the training dataset.
 
 The notebook also visualizes the trained Decision Tree with legitimate and phishing classes.
 
+## 📊 Screenshot:
+Confusion Matrix:
+
+<img width="576" height="452" alt="Screenshot 2026-10-16 095427" src="https://github.com/user-attachments/assets/931ee09b-115a-48b3-b6fe-3b66dda2f23e" />
+
+
+Phishing URL Detection:
+<img width="1392" height="720" alt="Screenshot 2026-10-16 095403" src="https://github.com/user-attachments/assets/f20fa652-d1f1-45e8-91c8-9bec06f0e4e7" />
+
+
 ## 📊 Model Evaluation
 
 The trained model is used to predict the test dataset.
@@ -168,7 +178,7 @@ The notebook reports a score of **1.0000 (100%) for all five evaluation metrics*
 
 ```text
 Project/
-│
+│__ NewFolder(2)
 ├── Task6_ML.ipynb
 ├── PhiUSIIL_Phishing_URL_Dataset.csv
 └── README.md
